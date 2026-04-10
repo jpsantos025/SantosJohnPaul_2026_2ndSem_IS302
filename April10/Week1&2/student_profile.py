@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+course = input("Enter your course: ")
+school = input("Enter your school: ")
+
+print("\n----- STUDENT PROFILE -----")
+print("Name:", name)
+print("Age:", age)
+print("Course:", course)
+print("School:", school)
